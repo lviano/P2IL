@@ -1,3 +1,5 @@
+***Implementation for Proximal Point Imitation Learning***
+
 The expert trajectories used during the experiments can be found here: **https://drive.google.com/drive/folders/1ACP1QIqJ4KjBvwSqsyPEK5BoclueWCyx?usp=sharing**
 
 Place the folder **LinearMDPs** in the folder **linear_PPIL/expert_trajs/** and the folder MDPs in the folders **offline_PPIL/experts/** and **deep_PPIL/experts/**
